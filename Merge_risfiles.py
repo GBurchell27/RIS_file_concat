@@ -35,7 +35,7 @@ output_file = r'C:\Users\georg\Documents\Python_Scripts\RIS_file_concat\Output_R
 # Call the function to merge RIS files
 merge_ris_files_in_folder(folder_path, output_file)
 
-print("SUCCESS, well done snippy")
+print("SUCCESS, well done")
 
 
 ############################################

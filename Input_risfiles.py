@@ -6,6 +6,7 @@
     # Copy all the RIS files you want to merge into the folder "Input_RIS_files"
 
     # **WINDOWS+R** Write: "Merge_risfile"
+    # This will merge all the RIS files into a single file in the folder "Output_RIS_files"
     # Merged file can now be put into dedupe.nl for deduplication
 
 
