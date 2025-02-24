@@ -75,10 +75,4 @@ The tool includes robust error handling for:
 
 Feel free to submit issues and enhancement requests.
 
-## License
 
-[Your chosen license]
-
-## Acknowledgments
-
-- dedupendnote.nl for providing deduplication services
