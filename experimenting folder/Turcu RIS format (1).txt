@@ -1,0 +1,47 @@
+TY  - JOUR
+AB  - The increase in the incidence of c....
+AN  - 37510126
+AU  - Turcu, A. M.
+AU  - Ilie, A. C.
+AU  - Ștefăniu, R.
+AU  - Țăranu, S. M.
+AU  - Sandu, I. A.
+AU  - Alexa-Stratulat, T.
+AU  - Pîslaru, A. I.
+AU  - Alexa, I. D.
+C1  - The authors declare no conflict of interest.
+C2  - PMC10378206
+DA  - Jul 15
+DO  - 10.3390/diagnostics13142382
+DP  - NLM
+ET  - 20230715
+IS  - 14
+KW  - heart rate variability
+novel wearable
+wearable devices
+LA  - eng
+N1  - 2075-4418
+Turcu, Ana-Maria
+Ilie, Adina Carmen
+Orcid: 0000-0002-9152-8534
+Ștefăniu, Ramona
+Țăranu, Sabinne Marie
+Sandu, Ioana Alexandra
+Alexa-Stratulat, Teodora
+Orcid: 0000-0003-2696-9568
+Pîslaru, Anca Iuliana
+Alexa, Ioana Dana
+Journal Article
+Review
+Switzerland
+2023/07/29
+Diagnostics (Basel). 2023 Jul 15;13(14):2382. doi: 10.3390/diagnostics13142382.
+PY  - 2023
+SN  - 2075-4418 (Print)
+2075-4418
+ST  - The Impact of Heart Rate Variability Monitoring on Preventing Severe Cardiovascular Events
+T2  - Diagnostics (Basel)
+TI  - The Impact of Heart Rate Variability Monitoring on Preventing Severe Cardiovascular Events
+VL  - 13
+ID  - 346553
+ER  - 

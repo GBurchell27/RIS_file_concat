@@ -1,0 +1,69 @@
+TY  - JOUR
+AB  - INTRODUCTION: Obstructive sleep apnoea (OSA) is a prevalent ....
+AN  - 30948567
+AU  - Treptow, E.
+AU  - Pepin, J. L.
+AU  - Bailly, S.
+AU  - Levy, P.
+AU  - Bosc, C.
+AU  - Destors, M.
+AU  - Woehrle, H.
+AU  - Tamisier, R.
+C1  - Competing interests: RT reports travel grants from Agiradom (a Home Healthcare provider) and research grants from Resmed.
+C2  - PMC6500296
+DA  - Apr 4
+DO  - 10.1136/bmjopen-2018-024253
+DP  - NLM
+ET  - 20190404
+IS  - 4
+KW  - Adolescent
+Adult
+Aged
+Aged, 80 and over
+Blood Flow Velocity
+Blood Pressure/physiology
+Blood Pressure Monitoring, Ambulatory
+Catecholamines/urine
+Continuous Positive Airway Pressure/*methods
+Double-Blind Method
+Heart Rate/physiology
+Humans
+Middle Aged
+Muscle, Skeletal/blood supply/innervation
+Peroneal Nerve/physiopathology
+Polysomnography
+Prospective Studies
+Sleep Apnea, Obstructive/*physiopathology/*therapy
+Sympathetic Nervous System/*physiopathology
+Young Adult
+continuous positive airway pressure
+hypertension
+obstructive sleep apnea
+sleep medicine
+sympathetic activity
+LA  - eng
+N1  - 2044-6055
+Treptow, Erika
+Pepin, Jean Louis
+Bailly, Sebastien
+Levy, Patrick
+Bosc, Cecile
+Destors, Marie
+Woehrle, Holger
+Tamisier, Renaud
+Clinical Trial Protocol
+Journal Article
+Randomized Controlled Trial
+Research Support, Non-U.S. Gov't
+England
+2019/04/06
+BMJ Open. 2019 Apr 4;9(4):e024253. doi: 10.1136/bmjopen-2018-024253.
+PY  - 2019
+SN  - 2044-6055
+SP  - e024253
+ST  - Reduction in sympathetic tone in patients with obstructive sleep apnoea: is fixed CPAP more effective than APAP? A randomised, parallel trial protocol
+T2  - BMJ Open
+TI  - Reduction in sympathetic tone in patients with obstructive sleep apnoea: is fixed CPAP more effective than APAP? A randomised, parallel trial protocol
+VL  - 9
+ID  - 346557
+ER  - 

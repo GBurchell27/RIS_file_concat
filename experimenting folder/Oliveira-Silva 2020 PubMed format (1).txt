@@ -1,0 +1,101 @@
+PMID- 32741136
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210525
+LR  - 20211217
+IS  - 1751-7176 (Electronic)
+IS  - 1524-6175 (Print)
+IS  - 1524-6175 (Linking)
+VI  - 22
+IP  - 8
+DP  - 2020 Aug
+TI  - Poor sleep quality is associated with cardiac autonomic dysfunction in treated 
+      hypertensive men.
+PG  - 1484-1490
+LID - 10.1111/jch.13949 [doi]
+AB  - Hypertensives present ...
+CI  - ©2020 Wiley Periodicals LLC.
+FAU - Oliveira-Silva, Laura
+AU  - Oliveira-Silva L
+AD  - Exercise Hemodynamic Laboratory, School of Physical Education and Sport, 
+      University of São Paulo, São Paulo, Brazil.
+FAU - Peçanha, Tiago
+AU  - Peçanha T
+AUID- ORCID: 0000-0003-4968-5525
+AD  - Exercise Hemodynamic Laboratory, School of Physical Education and Sport, 
+      University of São Paulo, São Paulo, Brazil.
+FAU - Fecchio, Rafael Y
+AU  - Fecchio RY
+AUID- ORCID: 0000-0003-3865-2349
+AD  - Exercise Hemodynamic Laboratory, School of Physical Education and Sport, 
+      University of São Paulo, São Paulo, Brazil.
+FAU - Rezende, Rafael A
+AU  - Rezende RA
+AD  - Exercise Hemodynamic Laboratory, School of Physical Education and Sport, 
+      University of São Paulo, São Paulo, Brazil.
+FAU - Abreu, Andrea
+AU  - Abreu A
+AUID- ORCID: 0000-0002-5118-7990
+AD  - Hypertension Unit, General Hospital, University of São Paulo, São Paulo, Brazil.
+FAU - Silva, Giovânio
+AU  - Silva G
+AD  - Hypertension Unit, General Hospital, University of São Paulo, São Paulo, Brazil.
+FAU - Mion-Junior, Décio
+AU  - Mion-Junior D
+AD  - Hypertension Unit, General Hospital, University of São Paulo, São Paulo, Brazil.
+FAU - Cipolla-Neto, José
+AU  - Cipolla-Neto J
+AUID- ORCID: 0000-0003-3748-3731
+AD  - Neurobiology Laboratory, Institute of Biomedical Science, University of São 
+      Paulo, São Paulo, Brazil.
+FAU - Forjaz, Claudia L M
+AU  - Forjaz CLM
+AUID- ORCID: 0000-0001-7584-4265
+AD  - Exercise Hemodynamic Laboratory, School of Physical Education and Sport, 
+      University of São Paulo, São Paulo, Brazil.
+FAU - Brito, Leandro C
+AU  - Brito LC
+AUID- ORCID: 0000-0001-9902-7390
+AD  - Exercise Hemodynamic Laboratory, School of Physical Education and Sport, 
+      University of São Paulo, São Paulo, Brazil.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20200802
+PL  - United States
+TA  - J Clin Hypertens (Greenwich)
+JT  - Journal of clinical hypertension (Greenwich, Conn.)
+JID - 100888554
+SB  - IM
+CIN - J Clin Hypertens (Greenwich). 2020 Aug;22(8):1491-1493. PMID: 32710680
+MH  - Autonomic Nervous System
+MH  - Baroreflex
+MH  - Blood Pressure
+MH  - Heart Rate
+MH  - Humans
+MH  - *Hypertension/complications/drug therapy
+MH  - Male
+MH  - Middle Aged
+MH  - Sleep
+PMC - PMC8029802
+OTO - NOTNLM
+OT  - autonomic nervous system
+OT  - baroreflex sensitivity
+OT  - heart rate variability
+OT  - hypertension
+OT  - sleep
+COIS- The authors declare no conflict of interest.
+EDAT- 2020/08/03 06:00
+MHDA- 2021/05/26 06:00
+CRDT- 2020/08/03 06:00
+PHST- 2020/04/02 00:00 [received]
+PHST- 2020/04/23 00:00 [revised]
+PHST- 2020/04/28 00:00 [accepted]
+PHST- 2020/08/03 06:00 [pubmed]
+PHST- 2021/05/26 06:00 [medline]
+PHST- 2020/08/03 06:00 [entrez]
+AID - JCH13949 [pii]
+AID - 10.1111/jch.13949 [doi]
+PST - ppublish
+SO  - J Clin Hypertens (Greenwich). 2020 Aug;22(8):1484-1490. doi: 10.1111/jch.13949. 
+      Epub 2020 Aug 2.

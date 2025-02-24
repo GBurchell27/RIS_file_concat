@@ -1,0 +1,48 @@
+TY  - JOUR
+AB  - The 5-minute .....
+AN  - 36654070
+AU  - Liu, F.
+AU  - Qu, B.
+AU  - Wang, L.
+AU  - Xu, Y.
+AU  - Peng, X.
+AU  - Zhang, C.
+AU  - Xu, D.
+DA  - Sep 19
+DO  - 10.3934/mbe.2022645
+DP  - NLM
+IS  - 12
+KW  - Humans
+Healthy Volunteers
+Heart Rate/physiology
+*Sleep/physiology
+*Sleep Deprivation
+Sleep, REM/physiology
+Psg
+autonomic nervous system
+heart rate variability
+selective sleep deprivation
+LA  - eng
+N1  - 1551-0018
+Liu, Fengjuan
+Qu, Binbin
+Wang, Lili
+Xu, Yahui
+Peng, Xiufa
+Zhang, Chunling
+Xu, Dexiang
+Journal Article
+Randomized Controlled Trial
+Research Support, Non-U.S. Gov't
+United States
+2023/01/20
+Math Biosci Eng. 2022 Sep 19;19(12):13851-13860. doi: 10.3934/mbe.2022645.
+PY  - 2022
+SN  - 1547-1063
+SP  - 13851-13860
+ST  - Effect of selective sleep deprivation on heart rate variability in post-90s healthy volunteers
+T2  - Math Biosci Eng
+TI  - Effect of selective sleep deprivation on heart rate variability in post-90s healthy volunteers
+VL  - 19
+ID  - 346554
+ER  - 

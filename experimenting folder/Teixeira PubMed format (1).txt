@@ -1,0 +1,66 @@
+PMID- 37811491
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20231010
+IS  - 1664-042X (Print)
+IS  - 1664-042X (Electronic)
+IS  - 1664-042X (Linking)
+VI  - 14
+DP  - 2023
+TI  - The effects of a firefighting simulation on the vascular and autonomic functions 
+      and cognitive performance: a randomized crossover study.
+PG  - 1215006
+LID - 10.3389/fphys.2023.1215006 [doi]
+LID - 1215006
+AB  - Introduction: During firefighting, physical and ...
+CI  - Copyright © 2023 Teixeira, Verzola, Filipini and Speretta.
+FAU - Teixeira, Iara G
+AU  - Teixeira IG
+AD  - Post-Graduate Program in Neurosciences, Federal University of Santa Catarina, 
+      Florianópolis, Brazil.
+AD  - Department of Physiological Sciences, Biological Sciences Centre, Federal 
+      University of Santa Catarina, Florianópolis, Brazil.
+FAU - Verzola, Marcio R
+AU  - Verzola MR
+AD  - Military Firefighters Corps of Santa Catarina, Florianópolis, Brazil.
+FAU - Filipini, Richard E
+AU  - Filipini RE
+AD  - Department of Physiological Sciences, Biological Sciences Centre, Federal 
+      University of Santa Catarina, Florianópolis, Brazil.
+FAU - Speretta, Guilherme F
+AU  - Speretta GF
+AD  - Post-Graduate Program in Neurosciences, Federal University of Santa Catarina, 
+      Florianópolis, Brazil.
+AD  - Department of Physiological Sciences, Biological Sciences Centre, Federal 
+      University of Santa Catarina, Florianópolis, Brazil.
+LA  - eng
+PT  - Journal Article
+DEP - 20230921
+PL  - Switzerland
+TA  - Front Physiol
+JT  - Frontiers in physiology
+JID - 101549006
+PMC - PMC10551144
+OTO - NOTNLM
+OT  - autonomic nervous system
+OT  - carotid arteries
+OT  - cognition
+OT  - heart disease risk factors
+OT  - heart rate
+OT  - occupational health
+COIS- The authors declare that the research was conducted in the absence of any 
+      commercial or financial relationships that could be construed as a potential 
+      conflict of interest.
+EDAT- 2023/10/09 12:42
+MHDA- 2023/10/09 12:43
+CRDT- 2023/10/09 06:18
+PHST- 2023/05/01 00:00 [received]
+PHST- 2023/09/12 00:00 [accepted]
+PHST- 2023/10/09 12:43 [medline]
+PHST- 2023/10/09 12:42 [pubmed]
+PHST- 2023/10/09 06:18 [entrez]
+AID - 1215006 [pii]
+AID - 10.3389/fphys.2023.1215006 [doi]
+PST - epublish
+SO  - Front Physiol. 2023 Sep 21;14:1215006. doi: 10.3389/fphys.2023.1215006. 
+      eCollection 2023.

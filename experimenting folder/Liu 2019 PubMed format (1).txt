@@ -1,0 +1,75 @@
+PMID- 36654070
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20230124
+LR  - 20230201
+IS  - 1551-0018 (Electronic)
+IS  - 1547-1063 (Linking)
+VI  - 19
+IP  - 12
+DP  - 2022 Sep 19
+TI  - Effect of selective sleep deprivation on heart rate variability in post-90s 
+      healthy volunteers.
+PG  - 13851-13860
+LID - 10.3934/mbe.2022645 [doi]
+AB  - The 5-minute frequency ...
+FAU - Liu, Fengjuan
+AU  - Liu F
+AD  - Department of Respiratory and Critical Care Medicine, the Affiliated Central 
+      Hospital of Qingdao University, Qingdao 266042, China.
+AD  - Clinical Trial Research Center, the Affiliated Central Hospital of Qingdao 
+      University, Qingdao 266035, China.
+FAU - Qu, Binbin
+AU  - Qu B
+AD  - Department of Respiratory and Critical Care Medicine, the Affiliated Central 
+      Hospital of Qingdao University, Qingdao 266042, China.
+FAU - Wang, Lili
+AU  - Wang L
+AD  - Department of Respiratory and Critical Care Medicine, the Affiliated Central 
+      Hospital of Qingdao University, Qingdao 266042, China.
+FAU - Xu, Yahui
+AU  - Xu Y
+AD  - Department of Respiratory and Critical Care Medicine, the Affiliated Central 
+      Hospital of Qingdao University, Qingdao 266042, China.
+FAU - Peng, Xiufa
+AU  - Peng X
+AD  - Department of Respiratory and Critical Care Medicine, the Affiliated Central 
+      Hospital of Qingdao University, Qingdao 266042, China.
+FAU - Zhang, Chunling
+AU  - Zhang C
+AD  - Department of Respiratory and Critical Care Medicine, the Affiliated Central 
+      Hospital of Qingdao University, Qingdao 266042, China.
+FAU - Xu, Dexiang
+AU  - Xu D
+AD  - Department of Respiratory and Critical Care Medicine, the Affiliated Central 
+      Hospital of Qingdao University, Qingdao 266042, China.
+LA  - eng
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+PT  - Research Support, Non-U.S. Gov't
+PL  - United States
+TA  - Math Biosci Eng
+JT  - Mathematical biosciences and engineering : MBE
+JID - 101197794
+SB  - IM
+MH  - Humans
+MH  - Healthy Volunteers
+MH  - Heart Rate/physiology
+MH  - *Sleep/physiology
+MH  - *Sleep Deprivation
+MH  - Sleep, REM/physiology
+OTO - NOTNLM
+OT  - PSG
+OT  - autonomic nervous system
+OT  - healthy volunteers
+OT  - heart rate variability
+OT  - selective sleep deprivation
+EDAT- 2023/01/20 06:00
+MHDA- 2023/01/21 06:00
+CRDT- 2023/01/19 01:00
+PHST- 2023/01/19 01:00 [entrez]
+PHST- 2023/01/20 06:00 [pubmed]
+PHST- 2023/01/21 06:00 [medline]
+AID - 10.3934/mbe.2022645 [doi]
+PST - ppublish
+SO  - Math Biosci Eng. 2022 Sep 19;19(12):13851-13860. doi: 10.3934/mbe.2022645.

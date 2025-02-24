@@ -1,0 +1,418 @@
+PMID- 37510126
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20230731
+IS  - 2075-4418 (Print)
+IS  - 2075-4418 (Electronic)
+IS  - 2075-4418 (Linking)
+VI  - 13
+IP  - 14
+DP  - 2023 Jul 15
+TI  - The Impact of Heart Rate Variability Monitoring on Preventing Severe 
+      Cardiovascular Events.
+LID - 10.3390/diagnostics13142382 [doi]
+LID - 2382
+AB  - The increase ...
+FAU - Turcu, Ana-Maria
+AU  - Turcu AM
+AD  - Department of Medical Specialties II, Grigore T Popa University of Medicine and 
+      Pharmacy, 700115 Iasi, Romania.
+FAU - Ilie, Adina Carmen
+AU  - Ilie AC
+AUID- ORCID: 0000-0002-9152-8534
+AD  - Department of Medical Specialties II, Grigore T Popa University of Medicine and 
+      Pharmacy, 700115 Iasi, Romania.
+FAU - Ștefăniu, Ramona
+AU  - Ștefăniu R
+AD  - Department of Medical Specialties II, Grigore T Popa University of Medicine and 
+      Pharmacy, 700115 Iasi, Romania.
+FAU - Țăranu, Sabinne Marie
+AU  - Țăranu SM
+AD  - Department of Medical Specialties II, Grigore T Popa University of Medicine and 
+      Pharmacy, 700115 Iasi, Romania.
+FAU - Sandu, Ioana Alexandra
+AU  - Sandu IA
+AD  - Department of Medical Specialties II, Grigore T Popa University of Medicine and 
+      Pharmacy, 700115 Iasi, Romania.
+FAU - Alexa-Stratulat, Teodora
+AU  - Alexa-Stratulat T
+AUID- ORCID: 0000-0003-2696-9568
+AD  - Department of Medical Oncology-Radiotherapy, Faculty of Medicine, Grigore T Popa 
+      University of Medicine and Pharmacy, 700115 Iasi, Romania.
+FAU - Pîslaru, Anca Iuliana
+AU  - Pîslaru AI
+AD  - Department of Medical Specialties II, Grigore T Popa University of Medicine and 
+      Pharmacy, 700115 Iasi, Romania.
+FAU - Alexa, Ioana Dana
+AU  - Alexa ID
+AD  - Department of Medical Specialties II, Grigore T Popa University of Medicine and 
+      Pharmacy, 700115 Iasi, Romania.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20230715
+PL  - Switzerland
+TA  - Diagnostics (Basel)
+JT  - Diagnostics (Basel, Switzerland)
+JID - 101658402
+PMC - PMC10378206
+OTO - NOTNLM
+OT  - heart rate variability
+OT  - novel wearable
+OT  - wearable devices
+COIS- The authors declare no conflict of interest.
+EDAT- 2023/07/29 11:43
+MHDA- 2023/07/29 11:44
+CRDT- 2023/07/29 01:16
+PHST- 2023/06/30 00:00 [received]
+PHST- 2023/07/10 00:00 [revised]
+PHST- 2023/07/12 00:00 [accepted]
+PHST- 2023/07/29 11:44 [medline]
+PHST- 2023/07/29 11:43 [pubmed]
+PHST- 2023/07/29 01:16 [entrez]
+AID - diagnostics13142382 [pii]
+AID - diagnostics-13-02382 [pii]
+AID - 10.3390/diagnostics13142382 [doi]
+PST - epublish
+SO  - Diagnostics (Basel). 2023 Jul 15;13(14):2382. doi: 10.3390/diagnostics13142382.
+
+PMID- 36654070
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20230124
+LR  - 20230201
+IS  - 1551-0018 (Electronic)
+IS  - 1547-1063 (Linking)
+VI  - 19
+IP  - 12
+DP  - 2022 Sep 19
+TI  - Effect of selective sleep deprivation on heart rate variability in post-90s 
+      healthy volunteers.
+PG  - 13851-13860
+LID - 10.3934/mbe.2022645 [doi]
+AB  - The 5-minute frequency ...
+FAU - Liu, Fengjuan
+AU  - Liu F
+AD  - Department of Respiratory and Critical Care Medicine, the Affiliated Central 
+      Hospital of Qingdao University, Qingdao 266042, China.
+AD  - Clinical Trial Research Center, the Affiliated Central Hospital of Qingdao 
+      University, Qingdao 266035, China.
+FAU - Qu, Binbin
+AU  - Qu B
+AD  - Department of Respiratory and Critical Care Medicine, the Affiliated Central 
+      Hospital of Qingdao University, Qingdao 266042, China.
+FAU - Wang, Lili
+AU  - Wang L
+AD  - Department of Respiratory and Critical Care Medicine, the Affiliated Central 
+      Hospital of Qingdao University, Qingdao 266042, China.
+FAU - Xu, Yahui
+AU  - Xu Y
+AD  - Department of Respiratory and Critical Care Medicine, the Affiliated Central 
+      Hospital of Qingdao University, Qingdao 266042, China.
+FAU - Peng, Xiufa
+AU  - Peng X
+AD  - Department of Respiratory and Critical Care Medicine, the Affiliated Central 
+      Hospital of Qingdao University, Qingdao 266042, China.
+FAU - Zhang, Chunling
+AU  - Zhang C
+AD  - Department of Respiratory and Critical Care Medicine, the Affiliated Central 
+      Hospital of Qingdao University, Qingdao 266042, China.
+FAU - Xu, Dexiang
+AU  - Xu D
+AD  - Department of Respiratory and Critical Care Medicine, the Affiliated Central 
+      Hospital of Qingdao University, Qingdao 266042, China.
+LA  - eng
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+PT  - Research Support, Non-U.S. Gov't
+PL  - United States
+TA  - Math Biosci Eng
+JT  - Mathematical biosciences and engineering : MBE
+JID - 101197794
+SB  - IM
+MH  - Humans
+MH  - Healthy Volunteers
+MH  - Heart Rate/physiology
+MH  - *Sleep/physiology
+MH  - *Sleep Deprivation
+MH  - Sleep, REM/physiology
+OTO - NOTNLM
+OT  - PSG
+OT  - autonomic nervous system
+OT  - healthy volunteers
+OT  - heart rate variability
+OT  - selective sleep deprivation
+EDAT- 2023/01/20 06:00
+MHDA- 2023/01/21 06:00
+CRDT- 2023/01/19 01:00
+PHST- 2023/01/19 01:00 [entrez]
+PHST- 2023/01/20 06:00 [pubmed]
+PHST- 2023/01/21 06:00 [medline]
+AID - 10.3934/mbe.2022645 [doi]
+PST - ppublish
+SO  - Math Biosci Eng. 2022 Sep 19;19(12):13851-13860. doi: 10.3934/mbe.2022645.
+
+PMID- 32741136
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210525
+LR  - 20211217
+IS  - 1751-7176 (Electronic)
+IS  - 1524-6175 (Print)
+IS  - 1524-6175 (Linking)
+VI  - 22
+IP  - 8
+DP  - 2020 Aug
+TI  - Poor sleep quality is associated with cardiac autonomic dysfunction in treated 
+      hypertensive men.
+PG  - 1484-1490
+LID - 10.1111/jch.13949 [doi]
+AB  - Hypertensives present ...
+CI  - ©2020 Wiley Periodicals LLC.
+FAU - Oliveira-Silva, Laura
+AU  - Oliveira-Silva L
+AD  - Exercise Hemodynamic Laboratory, School of Physical Education and Sport, 
+      University of São Paulo, São Paulo, Brazil.
+FAU - Peçanha, Tiago
+AU  - Peçanha T
+AUID- ORCID: 0000-0003-4968-5525
+AD  - Exercise Hemodynamic Laboratory, School of Physical Education and Sport, 
+      University of São Paulo, São Paulo, Brazil.
+FAU - Fecchio, Rafael Y
+AU  - Fecchio RY
+AUID- ORCID: 0000-0003-3865-2349
+AD  - Exercise Hemodynamic Laboratory, School of Physical Education and Sport, 
+      University of São Paulo, São Paulo, Brazil.
+FAU - Rezende, Rafael A
+AU  - Rezende RA
+AD  - Exercise Hemodynamic Laboratory, School of Physical Education and Sport, 
+      University of São Paulo, São Paulo, Brazil.
+FAU - Abreu, Andrea
+AU  - Abreu A
+AUID- ORCID: 0000-0002-5118-7990
+AD  - Hypertension Unit, General Hospital, University of São Paulo, São Paulo, Brazil.
+FAU - Silva, Giovânio
+AU  - Silva G
+AD  - Hypertension Unit, General Hospital, University of São Paulo, São Paulo, Brazil.
+FAU - Mion-Junior, Décio
+AU  - Mion-Junior D
+AD  - Hypertension Unit, General Hospital, University of São Paulo, São Paulo, Brazil.
+FAU - Cipolla-Neto, José
+AU  - Cipolla-Neto J
+AUID- ORCID: 0000-0003-3748-3731
+AD  - Neurobiology Laboratory, Institute of Biomedical Science, University of São 
+      Paulo, São Paulo, Brazil.
+FAU - Forjaz, Claudia L M
+AU  - Forjaz CLM
+AUID- ORCID: 0000-0001-7584-4265
+AD  - Exercise Hemodynamic Laboratory, School of Physical Education and Sport, 
+      University of São Paulo, São Paulo, Brazil.
+FAU - Brito, Leandro C
+AU  - Brito LC
+AUID- ORCID: 0000-0001-9902-7390
+AD  - Exercise Hemodynamic Laboratory, School of Physical Education and Sport, 
+      University of São Paulo, São Paulo, Brazil.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20200802
+PL  - United States
+TA  - J Clin Hypertens (Greenwich)
+JT  - Journal of clinical hypertension (Greenwich, Conn.)
+JID - 100888554
+SB  - IM
+CIN - J Clin Hypertens (Greenwich). 2020 Aug;22(8):1491-1493. PMID: 32710680
+MH  - Autonomic Nervous System
+MH  - Baroreflex
+MH  - Blood Pressure
+MH  - Heart Rate
+MH  - Humans
+MH  - *Hypertension/complications/drug therapy
+MH  - Male
+MH  - Middle Aged
+MH  - Sleep
+PMC - PMC8029802
+OTO - NOTNLM
+OT  - autonomic nervous system
+OT  - baroreflex sensitivity
+OT  - heart rate variability
+OT  - hypertension
+OT  - sleep
+COIS- The authors declare no conflict of interest.
+EDAT- 2020/08/03 06:00
+MHDA- 2021/05/26 06:00
+CRDT- 2020/08/03 06:00
+PHST- 2020/04/02 00:00 [received]
+PHST- 2020/04/23 00:00 [revised]
+PHST- 2020/04/28 00:00 [accepted]
+PHST- 2020/08/03 06:00 [pubmed]
+PHST- 2021/05/26 06:00 [medline]
+PHST- 2020/08/03 06:00 [entrez]
+AID - JCH13949 [pii]
+AID - 10.1111/jch.13949 [doi]
+PST - ppublish
+SO  - J Clin Hypertens (Greenwich). 2020 Aug;22(8):1484-1490. doi: 10.1111/jch.13949. 
+      Epub 2020 Aug 2.
+
+PMID- 37811491
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20231010
+IS  - 1664-042X (Print)
+IS  - 1664-042X (Electronic)
+IS  - 1664-042X (Linking)
+VI  - 14
+DP  - 2023
+TI  - The effects of a firefighting simulation on the vascular and autonomic functions 
+      and cognitive performance: a randomized crossover study.
+PG  - 1215006
+LID - 10.3389/fphys.2023.1215006 [doi]
+LID - 1215006
+AB  - Introduction: During firefighting, physical and ...
+CI  - Copyright © 2023 Teixeira, Verzola, Filipini and Speretta.
+FAU - Teixeira, Iara G
+AU  - Teixeira IG
+AD  - Post-Graduate Program in Neurosciences, Federal University of Santa Catarina, 
+      Florianópolis, Brazil.
+AD  - Department of Physiological Sciences, Biological Sciences Centre, Federal 
+      University of Santa Catarina, Florianópolis, Brazil.
+FAU - Verzola, Marcio R
+AU  - Verzola MR
+AD  - Military Firefighters Corps of Santa Catarina, Florianópolis, Brazil.
+FAU - Filipini, Richard E
+AU  - Filipini RE
+AD  - Department of Physiological Sciences, Biological Sciences Centre, Federal 
+      University of Santa Catarina, Florianópolis, Brazil.
+FAU - Speretta, Guilherme F
+AU  - Speretta GF
+AD  - Post-Graduate Program in Neurosciences, Federal University of Santa Catarina, 
+      Florianópolis, Brazil.
+AD  - Department of Physiological Sciences, Biological Sciences Centre, Federal 
+      University of Santa Catarina, Florianópolis, Brazil.
+LA  - eng
+PT  - Journal Article
+DEP - 20230921
+PL  - Switzerland
+TA  - Front Physiol
+JT  - Frontiers in physiology
+JID - 101549006
+PMC - PMC10551144
+OTO - NOTNLM
+OT  - autonomic nervous system
+OT  - carotid arteries
+OT  - cognition
+OT  - heart disease risk factors
+OT  - heart rate
+OT  - occupational health
+COIS- The authors declare that the research was conducted in the absence of any 
+      commercial or financial relationships that could be construed as a potential 
+      conflict of interest.
+EDAT- 2023/10/09 12:42
+MHDA- 2023/10/09 12:43
+CRDT- 2023/10/09 06:18
+PHST- 2023/05/01 00:00 [received]
+PHST- 2023/09/12 00:00 [accepted]
+PHST- 2023/10/09 12:43 [medline]
+PHST- 2023/10/09 12:42 [pubmed]
+PHST- 2023/10/09 06:18 [entrez]
+AID - 1215006 [pii]
+AID - 10.3389/fphys.2023.1215006 [doi]
+PST - epublish
+SO  - Front Physiol. 2023 Sep 21;14:1215006. doi: 10.3389/fphys.2023.1215006. 
+      eCollection 2023.
+
+PMID- 30948567
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20200413
+LR  - 20200413
+IS  - 2044-6055 (Electronic)
+IS  - 2044-6055 (Linking)
+VI  - 9
+IP  - 4
+DP  - 2019 Apr 4
+TI  - Reduction in sympathetic tone in patients with obstructive sleep apnoea: is fixed 
+      CPAP more effective than APAP? A randomised, parallel trial protocol.
+PG  - e024253
+LID - 10.1136/bmjopen-2018-024253 [doi]
+LID - e024253
+AB  - INTRODUCTION: Obstructive sleep apnoea (OSA) is a ...
+FAU - Treptow, Erika
+AU  - Treptow E
+AD  - HP2, Inserm 1042, Université Grenoble Alpes, Grenoble, France.
+FAU - Pepin, Jean Louis
+AU  - Pepin JL
+AD  - HP2, Inserm 1042, Université Grenoble Alpes, Grenoble, France.
+AD  - Laboratoire sommeil, Hôpital Universitaire de Grenoble, Grenoble, France.
+FAU - Bailly, Sebastien
+AU  - Bailly S
+AD  - HP2, Inserm 1042, Université Grenoble Alpes, Grenoble, France.
+FAU - Levy, Patrick
+AU  - Levy P
+AD  - HP2, Inserm 1042, Université Grenoble Alpes, Grenoble, France.
+FAU - Bosc, Cecile
+AU  - Bosc C
+AD  - Centre Santé et Sommeil, Grenoble, France.
+FAU - Destors, Marie
+AU  - Destors M
+AD  - HP2, Inserm 1042, Université Grenoble Alpes, Grenoble, France.
+AD  - Laboratoire sommeil, Hôpital Universitaire de Grenoble, Grenoble, France.
+FAU - Woehrle, Holger
+AU  - Woehrle H
+AD  - Lung Center Ulm, Ulm, Germany.
+FAU - Tamisier, Renaud
+AU  - Tamisier R
+AD  - HP2, Inserm 1042, Université Grenoble Alpes, Grenoble, France.
+AD  - Laboratoire sommeil, Hôpital Universitaire de Grenoble, Grenoble, France.
+LA  - eng
+SI  - ClinicalTrials.gov/NCT03428516
+PT  - Clinical Trial Protocol
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20190404
+PL  - England
+TA  - BMJ Open
+JT  - BMJ open
+JID - 101552874
+RN  - 0 (Catecholamines)
+SB  - IM
+MH  - Adolescent
+MH  - Adult
+MH  - Aged
+MH  - Aged, 80 and over
+MH  - Blood Flow Velocity
+MH  - Blood Pressure/physiology
+MH  - Blood Pressure Monitoring, Ambulatory
+MH  - Catecholamines/urine
+MH  - Continuous Positive Airway Pressure/*methods
+MH  - Double-Blind Method
+MH  - Heart Rate/physiology
+MH  - Humans
+MH  - Middle Aged
+MH  - Muscle, Skeletal/blood supply/innervation
+MH  - Peroneal Nerve/physiopathology
+MH  - Polysomnography
+MH  - Prospective Studies
+MH  - Sleep Apnea, Obstructive/*physiopathology/*therapy
+MH  - Sympathetic Nervous System/*physiopathology
+MH  - Young Adult
+PMC - PMC6500296
+OTO - NOTNLM
+OT  - continuous positive airway pressure
+OT  - hypertension
+OT  - obstructive sleep apnea
+OT  - sleep medicine
+OT  - sympathetic activity
+COIS- Competing interests: RT reports travel grants from Agiradom (a Home Healthcare 
+      provider) and research grants from Resmed.
+EDAT- 2019/04/06 06:00
+MHDA- 2020/04/14 06:00
+CRDT- 2019/04/06 06:00
+PHST- 2019/04/06 06:00 [entrez]
+PHST- 2019/04/06 06:00 [pubmed]
+PHST- 2020/04/14 06:00 [medline]
+AID - bmjopen-2018-024253 [pii]
+AID - 10.1136/bmjopen-2018-024253 [doi]
+PST - epublish
+SO  - BMJ Open. 2019 Apr 4;9(4):e024253. doi: 10.1136/bmjopen-2018-024253.

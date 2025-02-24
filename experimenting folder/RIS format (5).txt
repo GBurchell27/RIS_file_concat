@@ -1,0 +1,272 @@
+﻿TY  - JOUR
+AB  - The 5-minute .....
+AN  - 36654070
+AU  - Liu, F.
+AU  - Qu, B.
+AU  - Wang, L.
+AU  - Xu, Y.
+AU  - Peng, X.
+AU  - Zhang, C.
+AU  - Xu, D.
+DA  - Sep 19
+DO  - 10.3934/mbe.2022645
+DP  - NLM
+IS  - 12
+KW  - Humans
+Healthy Volunteers
+Heart Rate/physiology
+*Sleep/physiology
+*Sleep Deprivation
+Sleep, REM/physiology
+Psg
+autonomic nervous system
+heart rate variability
+selective sleep deprivation
+LA  - eng
+N1  - 1551-0018
+Liu, Fengjuan
+Qu, Binbin
+Wang, Lili
+Xu, Yahui
+Peng, Xiufa
+Zhang, Chunling
+Xu, Dexiang
+Journal Article
+Randomized Controlled Trial
+Research Support, Non-U.S. Gov't
+United States
+2023/01/20
+Math Biosci Eng. 2022 Sep 19;19(12):13851-13860. doi: 10.3934/mbe.2022645.
+PY  - 2022
+SN  - 1547-1063
+SP  - 13851-13860
+ST  - Effect of selective sleep deprivation on heart rate variability in post-90s healthy volunteers
+T2  - Math Biosci Eng
+TI  - Effect of selective sleep deprivation on heart rate variability in post-90s healthy volunteers
+VL  - 19
+ID  - 346554
+ER  - 
+
+TY  - JOUR
+AB  - Hypertensives present ...
+AN  - 32741136
+AU  - Oliveira-Silva, L.
+AU  - Peçanha, T.
+AU  - Fecchio, R. Y.
+AU  - Rezende, R. A.
+AU  - Abreu, A.
+AU  - Silva, G.
+AU  - Mion-Junior, D.
+AU  - Cipolla-Neto, J.
+AU  - Forjaz, C. L. M.
+AU  - Brito, L. C.
+C1  - The authors declare no conflict of interest.
+C2  - PMC8029802
+DA  - Aug
+DO  - 10.1111/jch.13949
+DP  - NLM
+ET  - 20200802
+IS  - 8
+KW  - Autonomic Nervous System
+Baroreflex
+Blood Pressure
+Heart Rate
+Humans
+*Hypertension/complications/drug therapy
+Male
+Middle Aged
+Sleep
+baroreflex sensitivity
+heart rate variability
+hypertension
+LA  - eng
+N1  - 1751-7176
+Oliveira-Silva, Laura
+Peçanha, Tiago
+Orcid: 0000-0003-4968-5525
+Fecchio, Rafael Y
+Orcid: 0000-0003-3865-2349
+Rezende, Rafael A
+Abreu, Andrea
+Orcid: 0000-0002-5118-7990
+Silva, Giovânio
+Mion-Junior, Décio
+Cipolla-Neto, José
+Orcid: 0000-0003-3748-3731
+Forjaz, Claudia L M
+Orcid: 0000-0001-7584-4265
+Brito, Leandro C
+Orcid: 0000-0001-9902-7390
+Journal Article
+Research Support, Non-U.S. Gov't
+United States
+2020/08/03
+J Clin Hypertens (Greenwich). 2020 Aug;22(8):1484-1490. doi: 10.1111/jch.13949. Epub 2020 Aug 2.
+PY  - 2020
+SN  - 1524-6175 (Print)
+1524-6175
+SP  - 1484-1490
+ST  - Poor sleep quality is associated with cardiac autonomic dysfunction in treated hypertensive men
+T2  - J Clin Hypertens (Greenwich)
+TI  - Poor sleep quality is associated with cardiac autonomic dysfunction in treated hypertensive men
+VL  - 22
+ID  - 346555
+ER  - 
+
+TY  - JOUR
+AB  - Introduction: During firefighting, .....
+AN  - 37811491
+AU  - Teixeira, I. G.
+AU  - Verzola, M. R.
+AU  - Filipini, R. E.
+AU  - Speretta, G. F.
+C1  - The authors declare that the research was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest.
+C2  - PMC10551144
+DO  - 10.3389/fphys.2023.1215006
+DP  - NLM
+ET  - 20230921
+KW  - autonomic nervous system
+carotid arteries
+cognition
+heart disease risk factors
+heart rate
+occupational health
+LA  - eng
+N1  - 1664-042x
+Teixeira, Iara G
+Verzola, Marcio R
+Filipini, Richard E
+Speretta, Guilherme F
+Journal Article
+Switzerland
+2023/10/09
+Front Physiol. 2023 Sep 21;14:1215006. doi: 10.3389/fphys.2023.1215006. eCollection 2023.
+PY  - 2023
+SN  - 1664-042X (Print)
+1664-042x
+SP  - 1215006
+ST  - The effects of a firefighting simulation on the vascular and autonomic functions and cognitive performance: a randomized crossover study
+T2  - Front Physiol
+TI  - The effects of a firefighting simulation on the vascular and autonomic functions and cognitive performance: a randomized crossover study
+VL  - 14
+ID  - 346556
+ER  - 
+
+TY  - JOUR
+AB  - INTRODUCTION: Obstructive sleep apnoea (OSA) is a prevalent ....
+AN  - 30948567
+AU  - Treptow, E.
+AU  - Pepin, J. L.
+AU  - Bailly, S.
+AU  - Levy, P.
+AU  - Bosc, C.
+AU  - Destors, M.
+AU  - Woehrle, H.
+AU  - Tamisier, R.
+C1  - Competing interests: RT reports travel grants from Agiradom (a Home Healthcare provider) and research grants from Resmed.
+C2  - PMC6500296
+DA  - Apr 4
+DO  - 10.1136/bmjopen-2018-024253
+DP  - NLM
+ET  - 20190404
+IS  - 4
+KW  - Adolescent
+Adult
+Aged
+Aged, 80 and over
+Blood Flow Velocity
+Blood Pressure/physiology
+Blood Pressure Monitoring, Ambulatory
+Catecholamines/urine
+Continuous Positive Airway Pressure/*methods
+Double-Blind Method
+Heart Rate/physiology
+Humans
+Middle Aged
+Muscle, Skeletal/blood supply/innervation
+Peroneal Nerve/physiopathology
+Polysomnography
+Prospective Studies
+Sleep Apnea, Obstructive/*physiopathology/*therapy
+Sympathetic Nervous System/*physiopathology
+Young Adult
+continuous positive airway pressure
+hypertension
+obstructive sleep apnea
+sleep medicine
+sympathetic activity
+LA  - eng
+N1  - 2044-6055
+Treptow, Erika
+Pepin, Jean Louis
+Bailly, Sebastien
+Levy, Patrick
+Bosc, Cecile
+Destors, Marie
+Woehrle, Holger
+Tamisier, Renaud
+Clinical Trial Protocol
+Journal Article
+Randomized Controlled Trial
+Research Support, Non-U.S. Gov't
+England
+2019/04/06
+BMJ Open. 2019 Apr 4;9(4):e024253. doi: 10.1136/bmjopen-2018-024253.
+PY  - 2019
+SN  - 2044-6055
+SP  - e024253
+ST  - Reduction in sympathetic tone in patients with obstructive sleep apnoea: is fixed CPAP more effective than APAP? A randomised, parallel trial protocol
+T2  - BMJ Open
+TI  - Reduction in sympathetic tone in patients with obstructive sleep apnoea: is fixed CPAP more effective than APAP? A randomised, parallel trial protocol
+VL  - 9
+ID  - 346557
+ER  - 
+
+TY  - JOUR
+AB  - The increase in the incidence of c....
+AN  - 37510126
+AU  - Turcu, A. M.
+AU  - Ilie, A. C.
+AU  - Ștefăniu, R.
+AU  - Țăranu, S. M.
+AU  - Sandu, I. A.
+AU  - Alexa-Stratulat, T.
+AU  - Pîslaru, A. I.
+AU  - Alexa, I. D.
+C1  - The authors declare no conflict of interest.
+C2  - PMC10378206
+DA  - Jul 15
+DO  - 10.3390/diagnostics13142382
+DP  - NLM
+ET  - 20230715
+IS  - 14
+KW  - heart rate variability
+novel wearable
+wearable devices
+LA  - eng
+N1  - 2075-4418
+Turcu, Ana-Maria
+Ilie, Adina Carmen
+Orcid: 0000-0002-9152-8534
+Ștefăniu, Ramona
+Țăranu, Sabinne Marie
+Sandu, Ioana Alexandra
+Alexa-Stratulat, Teodora
+Orcid: 0000-0003-2696-9568
+Pîslaru, Anca Iuliana
+Alexa, Ioana Dana
+Journal Article
+Review
+Switzerland
+2023/07/29
+Diagnostics (Basel). 2023 Jul 15;13(14):2382. doi: 10.3390/diagnostics13142382.
+PY  - 2023
+SN  - 2075-4418 (Print)
+2075-4418
+ST  - The Impact of Heart Rate Variability Monitoring on Preventing Severe Cardiovascular Events
+T2  - Diagnostics (Basel)
+TI  - The Impact of Heart Rate Variability Monitoring on Preventing Severe Cardiovascular Events
+VL  - 13
+ID  - 346553
+ER  - 
+

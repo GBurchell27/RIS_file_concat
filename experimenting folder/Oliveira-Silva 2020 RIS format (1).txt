@@ -1,0 +1,65 @@
+TY  - JOUR
+AB  - Hypertensives present ...
+AN  - 32741136
+AU  - Oliveira-Silva, L.
+AU  - Peçanha, T.
+AU  - Fecchio, R. Y.
+AU  - Rezende, R. A.
+AU  - Abreu, A.
+AU  - Silva, G.
+AU  - Mion-Junior, D.
+AU  - Cipolla-Neto, J.
+AU  - Forjaz, C. L. M.
+AU  - Brito, L. C.
+C1  - The authors declare no conflict of interest.
+C2  - PMC8029802
+DA  - Aug
+DO  - 10.1111/jch.13949
+DP  - NLM
+ET  - 20200802
+IS  - 8
+KW  - Autonomic Nervous System
+Baroreflex
+Blood Pressure
+Heart Rate
+Humans
+*Hypertension/complications/drug therapy
+Male
+Middle Aged
+Sleep
+baroreflex sensitivity
+heart rate variability
+hypertension
+LA  - eng
+N1  - 1751-7176
+Oliveira-Silva, Laura
+Peçanha, Tiago
+Orcid: 0000-0003-4968-5525
+Fecchio, Rafael Y
+Orcid: 0000-0003-3865-2349
+Rezende, Rafael A
+Abreu, Andrea
+Orcid: 0000-0002-5118-7990
+Silva, Giovânio
+Mion-Junior, Décio
+Cipolla-Neto, José
+Orcid: 0000-0003-3748-3731
+Forjaz, Claudia L M
+Orcid: 0000-0001-7584-4265
+Brito, Leandro C
+Orcid: 0000-0001-9902-7390
+Journal Article
+Research Support, Non-U.S. Gov't
+United States
+2020/08/03
+J Clin Hypertens (Greenwich). 2020 Aug;22(8):1484-1490. doi: 10.1111/jch.13949. Epub 2020 Aug 2.
+PY  - 2020
+SN  - 1524-6175 (Print)
+1524-6175
+SP  - 1484-1490
+ST  - Poor sleep quality is associated with cardiac autonomic dysfunction in treated hypertensive men
+T2  - J Clin Hypertens (Greenwich)
+TI  - Poor sleep quality is associated with cardiac autonomic dysfunction in treated hypertensive men
+VL  - 22
+ID  - 346555
+ER  - 

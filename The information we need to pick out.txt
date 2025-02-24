@@ -1,0 +1,130 @@
+The information we need to pick out from the pubmed is
+
+TY (RIS) = PT (PubMed): Publication Type
+AN (RIS) = PMID (PubMed): PubMed Unique Identifier
+TI (RIS) = TI (PubMed): Title
+AU (RIS) = AU (PubMed): Authors [make a dictionary as there are multiple authors]
+T2 (RIS) = SO (PubMed): Source (Journal)
+JF (RIS) = JT (PubMed): Journal Title
+JO (RIS) = TA (PubMed): Journal Abbreviation
+VL (RIS) = VI (PubMed): Volume
+IS (RIS) = IP (PubMed): Issue
+PY (RIS) = DP (PubMed): Publication Year
+DA (RIS) = DEP (PubMed): Date Electronic Publication
+SP (RIS) = PG (PubMed): Start Page
+AB (RIS) = AB (PubMed): Abstract
+KW (RIS) = MH (PubMed): Keywords [make a dictionary as there are multiple authors]
+DO (RIS) = LID (PubMed): Digital Object Identifier
+C1 (RIS) = AD (PubMed): Author Address
+LA (RIS) = LA (PubMed): Language
+ID (RIS) = AID (PubMed): Article Identifier
+SN (RIS) = IS (PubMed): ISSN
+ET (RIS) = Not directly mapped in PubMed: End Page
+C2 (RIS) = Not directly mapped in PubMed: PMC ID
+N1 (RIS) = Not directly mapped in PubMed: Note
+DP (RIS) = Not directly mapped in PubMed: Database Provider
+ST (RIS) = Not directly mapped in PubMed: Short Title
+UR (RIS) = Not directly mapped in PubMed: URL
+ER (RIS) = Not directly mapped in PubMed: End of Reference (used to mark the end of each reference in RIS)
+
+** Write this as first line:
+TY = PT (if no PT is present, put "JOUR")
+
+**Collect all the authors next:
+AU = AU
+AU = AU
+AU = ...
+
+**collect TI
+TI = TI
+
+**convert STAT --> JF (this is the database name)
+STAT = JF
+
+**convert DP to PY
+PY  - 2019 Jun 3
+
+**convert TA --> T2
+T2 - Rev Assoc Med Bras (1992)
+
+**collect LA
+LA  - eng
+
+**Convert MH to KW
+KW  - Cesarean Section/*adverse effects
+KW  - Cicatrix/*diagnosis/etiology/*therapy
+KW  - Female
+KW  - Humans
+KW  - Hysteroscopy/methods
+KW  - Metrorrhagia/diagnosis/etiology/therapy
+KW  - Risk Factors
+KW  - Uterine Diseases/*diagnosis/etiology/*therapy
+
+**collect the abstract
+AB  - AB
+
+**Collect all the AD
+AD  - Department of Medicine at the Federal University of Rio Grande do Sul (UFRGS), 
+      Porto Alegre, RS, Brasil.
+AD  - Department of Medicine at the Federal University of Health Sciences of Porto 
+      Alegre (UFCSPA), Porto Alegre, RS, Brasil.
+AD  - Department of Gynecology and Obstetrics at the Federal University of Health 
+      Sciences of Porto Alegre (UFCSPA), Porto Alegre, RS, Brasil.
+
+**write C3 blank
+C3 - 
+
+**write PU - blank
+PU - 
+
+**write PI - blank
+PI - 
+
+**write PA - blank
+PA - 
+
+**write SN - blank
+SN - 
+
+**write J9 - blank
+J9 - 
+
+**convert JT to JI
+JI  - Revista da Associacao Medica Brasileira (1992)
+
+**write DA - blank
+DA - 
+
+
+
+**convert VI to VL
+VL  - 65
+
+**convert IP to IS
+IS  - 5
+
+**write SP - blank
+SP - 
+
+**write EP - blank
+EP - 
+
+** Convert AID to DO
+DO - 10.1590/1806-9282.65.5.714
+
+**convert PMID to AN
+AN - 31166450
+
+
+
+
+
+
+
+
+
+
+
+
+
+

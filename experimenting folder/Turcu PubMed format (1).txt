@@ -1,0 +1,77 @@
+PMID- 37510126
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20230731
+IS  - 2075-4418 (Print)
+IS  - 2075-4418 (Electronic)
+IS  - 2075-4418 (Linking)
+VI  - 13
+IP  - 14
+DP  - 2023 Jul 15
+TI  - The Impact of Heart Rate Variability Monitoring on Preventing Severe 
+      Cardiovascular Events.
+LID - 10.3390/diagnostics13142382 [doi]
+LID - 2382
+AB  - The increase ...
+FAU - Turcu, Ana-Maria
+AU  - Turcu AM
+AD  - Department of Medical Specialties II, Grigore T Popa University of Medicine and 
+      Pharmacy, 700115 Iasi, Romania.
+FAU - Ilie, Adina Carmen
+AU  - Ilie AC
+AUID- ORCID: 0000-0002-9152-8534
+AD  - Department of Medical Specialties II, Grigore T Popa University of Medicine and 
+      Pharmacy, 700115 Iasi, Romania.
+FAU - Ștefăniu, Ramona
+AU  - Ștefăniu R
+AD  - Department of Medical Specialties II, Grigore T Popa University of Medicine and 
+      Pharmacy, 700115 Iasi, Romania.
+FAU - Țăranu, Sabinne Marie
+AU  - Țăranu SM
+AD  - Department of Medical Specialties II, Grigore T Popa University of Medicine and 
+      Pharmacy, 700115 Iasi, Romania.
+FAU - Sandu, Ioana Alexandra
+AU  - Sandu IA
+AD  - Department of Medical Specialties II, Grigore T Popa University of Medicine and 
+      Pharmacy, 700115 Iasi, Romania.
+FAU - Alexa-Stratulat, Teodora
+AU  - Alexa-Stratulat T
+AUID- ORCID: 0000-0003-2696-9568
+AD  - Department of Medical Oncology-Radiotherapy, Faculty of Medicine, Grigore T Popa 
+      University of Medicine and Pharmacy, 700115 Iasi, Romania.
+FAU - Pîslaru, Anca Iuliana
+AU  - Pîslaru AI
+AD  - Department of Medical Specialties II, Grigore T Popa University of Medicine and 
+      Pharmacy, 700115 Iasi, Romania.
+FAU - Alexa, Ioana Dana
+AU  - Alexa ID
+AD  - Department of Medical Specialties II, Grigore T Popa University of Medicine and 
+      Pharmacy, 700115 Iasi, Romania.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20230715
+PL  - Switzerland
+TA  - Diagnostics (Basel)
+JT  - Diagnostics (Basel, Switzerland)
+JID - 101658402
+PMC - PMC10378206
+OTO - NOTNLM
+OT  - heart rate variability
+OT  - novel wearable
+OT  - wearable devices
+COIS- The authors declare no conflict of interest.
+EDAT- 2023/07/29 11:43
+MHDA- 2023/07/29 11:44
+CRDT- 2023/07/29 01:16
+PHST- 2023/06/30 00:00 [received]
+PHST- 2023/07/10 00:00 [revised]
+PHST- 2023/07/12 00:00 [accepted]
+PHST- 2023/07/29 11:44 [medline]
+PHST- 2023/07/29 11:43 [pubmed]
+PHST- 2023/07/29 01:16 [entrez]
+AID - diagnostics13142382 [pii]
+AID - diagnostics-13-02382 [pii]
+AID - 10.3390/diagnostics13142382 [doi]
+PST - epublish
+SO  - Diagnostics (Basel). 2023 Jul 15;13(14):2382. doi: 10.3390/diagnostics13142382.

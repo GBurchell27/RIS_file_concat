@@ -1,0 +1,38 @@
+TY  - JOUR
+AB  - Introduction: During firefighting, .....
+AN  - 37811491
+AU  - Teixeira, I. G.
+AU  - Verzola, M. R.
+AU  - Filipini, R. E.
+AU  - Speretta, G. F.
+C1  - The authors declare that the research was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest.
+C2  - PMC10551144
+DO  - 10.3389/fphys.2023.1215006
+DP  - NLM
+ET  - 20230921
+KW  - autonomic nervous system
+carotid arteries
+cognition
+heart disease risk factors
+heart rate
+occupational health
+LA  - eng
+N1  - 1664-042x
+Teixeira, Iara G
+Verzola, Marcio R
+Filipini, Richard E
+Speretta, Guilherme F
+Journal Article
+Switzerland
+2023/10/09
+Front Physiol. 2023 Sep 21;14:1215006. doi: 10.3389/fphys.2023.1215006. eCollection 2023.
+PY  - 2023
+SN  - 1664-042X (Print)
+1664-042x
+SP  - 1215006
+ST  - The effects of a firefighting simulation on the vascular and autonomic functions and cognitive performance: a randomized crossover study
+T2  - Front Physiol
+TI  - The effects of a firefighting simulation on the vascular and autonomic functions and cognitive performance: a randomized crossover study
+VL  - 14
+ID  - 346556
+ER  - 

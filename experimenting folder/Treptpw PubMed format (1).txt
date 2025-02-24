@@ -1,0 +1,95 @@
+PMID- 30948567
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20200413
+LR  - 20200413
+IS  - 2044-6055 (Electronic)
+IS  - 2044-6055 (Linking)
+VI  - 9
+IP  - 4
+DP  - 2019 Apr 4
+TI  - Reduction in sympathetic tone in patients with obstructive sleep apnoea: is fixed 
+      CPAP more effective than APAP? A randomised, parallel trial protocol.
+PG  - e024253
+LID - 10.1136/bmjopen-2018-024253 [doi]
+LID - e024253
+AB  - INTRODUCTION: Obstructive sleep apnoea (OSA) is a ...
+FAU - Treptow, Erika
+AU  - Treptow E
+AD  - HP2, Inserm 1042, Université Grenoble Alpes, Grenoble, France.
+FAU - Pepin, Jean Louis
+AU  - Pepin JL
+AD  - HP2, Inserm 1042, Université Grenoble Alpes, Grenoble, France.
+AD  - Laboratoire sommeil, Hôpital Universitaire de Grenoble, Grenoble, France.
+FAU - Bailly, Sebastien
+AU  - Bailly S
+AD  - HP2, Inserm 1042, Université Grenoble Alpes, Grenoble, France.
+FAU - Levy, Patrick
+AU  - Levy P
+AD  - HP2, Inserm 1042, Université Grenoble Alpes, Grenoble, France.
+FAU - Bosc, Cecile
+AU  - Bosc C
+AD  - Centre Santé et Sommeil, Grenoble, France.
+FAU - Destors, Marie
+AU  - Destors M
+AD  - HP2, Inserm 1042, Université Grenoble Alpes, Grenoble, France.
+AD  - Laboratoire sommeil, Hôpital Universitaire de Grenoble, Grenoble, France.
+FAU - Woehrle, Holger
+AU  - Woehrle H
+AD  - Lung Center Ulm, Ulm, Germany.
+FAU - Tamisier, Renaud
+AU  - Tamisier R
+AD  - HP2, Inserm 1042, Université Grenoble Alpes, Grenoble, France.
+AD  - Laboratoire sommeil, Hôpital Universitaire de Grenoble, Grenoble, France.
+LA  - eng
+SI  - ClinicalTrials.gov/NCT03428516
+PT  - Clinical Trial Protocol
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20190404
+PL  - England
+TA  - BMJ Open
+JT  - BMJ open
+JID - 101552874
+RN  - 0 (Catecholamines)
+SB  - IM
+MH  - Adolescent
+MH  - Adult
+MH  - Aged
+MH  - Aged, 80 and over
+MH  - Blood Flow Velocity
+MH  - Blood Pressure/physiology
+MH  - Blood Pressure Monitoring, Ambulatory
+MH  - Catecholamines/urine
+MH  - Continuous Positive Airway Pressure/*methods
+MH  - Double-Blind Method
+MH  - Heart Rate/physiology
+MH  - Humans
+MH  - Middle Aged
+MH  - Muscle, Skeletal/blood supply/innervation
+MH  - Peroneal Nerve/physiopathology
+MH  - Polysomnography
+MH  - Prospective Studies
+MH  - Sleep Apnea, Obstructive/*physiopathology/*therapy
+MH  - Sympathetic Nervous System/*physiopathology
+MH  - Young Adult
+PMC - PMC6500296
+OTO - NOTNLM
+OT  - continuous positive airway pressure
+OT  - hypertension
+OT  - obstructive sleep apnea
+OT  - sleep medicine
+OT  - sympathetic activity
+COIS- Competing interests: RT reports travel grants from Agiradom (a Home Healthcare 
+      provider) and research grants from Resmed.
+EDAT- 2019/04/06 06:00
+MHDA- 2020/04/14 06:00
+CRDT- 2019/04/06 06:00
+PHST- 2019/04/06 06:00 [entrez]
+PHST- 2019/04/06 06:00 [pubmed]
+PHST- 2020/04/14 06:00 [medline]
+AID - bmjopen-2018-024253 [pii]
+AID - 10.1136/bmjopen-2018-024253 [doi]
+PST - epublish
+SO  - BMJ Open. 2019 Apr 4;9(4):e024253. doi: 10.1136/bmjopen-2018-024253.
